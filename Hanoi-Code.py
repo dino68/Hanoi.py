@@ -167,3 +167,4 @@ def test():
   g = getValidRod(disk,rod1,rod2,rod3)
   c = move(disk,g,rod1,rod2,rod3)
   printState(rod1,rod2,rod3)
+  #test()
