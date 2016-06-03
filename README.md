@@ -1,5 +1,4 @@
 # Hanoi.py
-###### This is the Towers of Hanoi game in python
 """
 This program allows the user play the game "The Towers of Hanoi", giving them the option of selecting the number of disks they would like to begin with. 
 
